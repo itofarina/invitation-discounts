@@ -1,22 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Usá mi invitación para unirte a Airbnb y descontá 44 USD en tu primer reserva!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://es.airbnb.com/c/alvarof2345?currency=USD"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Invitación
         </a>
       </header>
     </div>
