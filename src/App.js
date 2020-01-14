@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Usá mi invitación para unirte a Airbnb y descontá 44 USD en tu primer reserva!
+        Descontá 44 USD en tu reserva de Airbnb usando una invitación para unirte!
         </p>
         <a
           className="App-link"
