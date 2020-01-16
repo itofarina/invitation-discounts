@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9227c67caf961f05d10a456e9b752c6a",
+    "revision": "f481da9012192c09347562bfb1495447",
     "url": "/invitation-discounts/index.html"
   },
   {
-    "revision": "5559939ef9b6dc7a34d8",
-    "url": "/invitation-discounts/static/css/main.d1b05096.chunk.css"
+    "revision": "e62692d9d7f680ded6c1",
+    "url": "/invitation-discounts/static/css/main.0ab12827.chunk.css"
   },
   {
     "revision": "87f18b792aec8ff8ac43",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invitation-discounts/static/js/2.4e2d9ef7.chunk.js.LICENSE"
   },
   {
-    "revision": "5559939ef9b6dc7a34d8",
-    "url": "/invitation-discounts/static/js/main.5b32591f.chunk.js"
+    "revision": "e62692d9d7f680ded6c1",
+    "url": "/invitation-discounts/static/js/main.ea726fbc.chunk.js"
   },
   {
     "revision": "2f93b5794123cc8edd70",
