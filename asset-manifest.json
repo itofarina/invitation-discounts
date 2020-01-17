@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/invitation-discounts/static/css/main.0ab12827.chunk.css",
-    "main.js": "/invitation-discounts/static/js/main.90bd9cd6.chunk.js",
-    "main.js.map": "/invitation-discounts/static/js/main.90bd9cd6.chunk.js.map",
+    "main.js": "/invitation-discounts/static/js/main.d1aa390a.chunk.js",
+    "main.js.map": "/invitation-discounts/static/js/main.d1aa390a.chunk.js.map",
     "runtime-main.js": "/invitation-discounts/static/js/runtime-main.117b18b2.js",
     "runtime-main.js.map": "/invitation-discounts/static/js/runtime-main.117b18b2.js.map",
     "static/js/2.d7992aac.chunk.js": "/invitation-discounts/static/js/2.d7992aac.chunk.js",
     "static/js/2.d7992aac.chunk.js.map": "/invitation-discounts/static/js/2.d7992aac.chunk.js.map",
     "index.html": "/invitation-discounts/index.html",
-    "precache-manifest.82e480d2c94ab4ef810263f7a3e96f7a.js": "/invitation-discounts/precache-manifest.82e480d2c94ab4ef810263f7a3e96f7a.js",
+    "precache-manifest.159972c417b4bc8ac70fc9c00a0d890e.js": "/invitation-discounts/precache-manifest.159972c417b4bc8ac70fc9c00a0d890e.js",
     "service-worker.js": "/invitation-discounts/service-worker.js",
     "static/css/main.0ab12827.chunk.css.map": "/invitation-discounts/static/css/main.0ab12827.chunk.css.map",
     "static/js/2.d7992aac.chunk.js.LICENSE": "/invitation-discounts/static/js/2.d7992aac.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.117b18b2.js",
     "static/js/2.d7992aac.chunk.js",
     "static/css/main.0ab12827.chunk.css",
-    "static/js/main.90bd9cd6.chunk.js"
+    "static/js/main.d1aa390a.chunk.js"
   ]
 }
